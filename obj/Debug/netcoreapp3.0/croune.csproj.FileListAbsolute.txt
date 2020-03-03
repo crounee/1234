@@ -1,0 +1,11 @@
+C:\croune\bin\Debug\netcoreapp3.0\croune.exe
+C:\croune\bin\Debug\netcoreapp3.0\croune.deps.json
+C:\croune\bin\Debug\netcoreapp3.0\croune.runtimeconfig.json
+C:\croune\bin\Debug\netcoreapp3.0\croune.runtimeconfig.dev.json
+C:\croune\bin\Debug\netcoreapp3.0\croune.dll
+C:\croune\bin\Debug\netcoreapp3.0\croune.pdb
+C:\croune\obj\Debug\netcoreapp3.0\croune.csprojAssemblyReference.cache
+C:\croune\obj\Debug\netcoreapp3.0\croune.AssemblyInfoInputs.cache
+C:\croune\obj\Debug\netcoreapp3.0\croune.AssemblyInfo.cs
+C:\croune\obj\Debug\netcoreapp3.0\croune.dll
+C:\croune\obj\Debug\netcoreapp3.0\croune.pdb
